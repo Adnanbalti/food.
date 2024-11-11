@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    /* height: 100vh; */
+}
+
+.carousialImg{
+    width: 100% !important;
+    height: 500px !important;
+}
+
+.menu{
+    width: 100%;
+    /* height: 0px; */
+}
+.dishes{
+    display: flex !important;
+    justify-content: space-between;
+    height: 320px;
+}
+div > h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contactus{
+    margin: 0 40px;
+}
+
+
